@@ -1,4 +1,4 @@
 # practice-demo
 this is my first git repository
 
-author- Shubham
+author- Shubham apna college
